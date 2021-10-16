@@ -4,18 +4,19 @@
 
 # Description
 
-The new version of Vue3
+Nodejs Server Side Rendering. 
 
-the application works with Firebase,
+Template Engine is an Ejs.
 
-serves to display various training programs for users, 
+Used in the database by Mongodb.
 
-has the following functionality: 
+Basic functionality:
 
-registration / authorization, 
+Registration, Login, Password Recovery,
 
-product addition / editing / deletion /, 
+Admin Panel,
 
-database storage, 
+Add, delete, edit products,
 
-various filtering methods, etc.
+Buy products and etc
+
